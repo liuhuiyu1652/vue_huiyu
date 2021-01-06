@@ -1,0 +1,30 @@
+{
+  "id": "2310600",
+  "name": "maizuo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1473243",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "15738313",
+      "name": "我 的-01-01",
+      "font_class": "wode-01-01",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "18670421",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
